@@ -4,3 +4,5 @@ title:	"又找了个写东西的地方"
 ---
 
 Jekyll + github pages
+
+:+1:
